@@ -1,0 +1,24 @@
+{
+  "name": "analyzer",
+  "version": "1.0.0",
+  "description": "Mood analyzer web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/us3rn4m3-profile/moodAnalyzer.git"
+  },
+  "keywords": [
+    "mood",
+    "analyzer",
+    "app"
+  ],
+  "author": "us3rn4m3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/us3rn4m3-profile/moodAnalyzer/issues"
+  },
+  "homepage": "https://github.com/us3rn4m3-profile/moodAnalyzer#readme"
+}
